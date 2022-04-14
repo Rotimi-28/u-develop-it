@@ -1,6 +1,4 @@
- DROP TABLE IF EXISTS candidates;
-DROP TABLE IF EXISTS parties;
- 
+
  INSERT INTO parties (name, description)
 VALUES
   ('JS Juggernauts', 'The JS Juggernauts eat, breathe, and sleep JavaScript. They can build everything you could ever want in JS, including a new kitchen sink.'),
